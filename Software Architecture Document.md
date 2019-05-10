@@ -51,17 +51,17 @@ This document contains the Architectural Representation, Goals and Constraints a
 
 The application consists of a database and an android app. The database is used by the android app to store data of users, for example when leaving a rating. Also we have a RSS-Feed so we can load in todays menus and make the available to leave a rating on them.
 
-<img src="../MockUp/ArchitectureDiagram.png" />
+<img src="MockUp/ArchitectureDiagram.png" />
 
 ## 3. Architectural Goals and Constraints
 
 Currently we are statisfied with our architecture. (See picture above) The architecture which we want to adapt though is the one in the app itself. We try to achieve a architecture which represents a MVC-Architecture.
 
-<img src=../MockUp/mvc-architecture.png />
+<img src=MockUp/mvc-architecture.png />
 
 ## 4. Use-Case View
 
-<img src="UC Diagram.png" />
+<img src="UseCases/UC Diagram.png" />
 
 ### 4.1 Use-Case Realizations
 
@@ -95,7 +95,7 @@ N/A
 
 Our data is stored in an online MySQL-Database which you can reach anywhere as long as you have internet access.
 
-<img src=../ClassDiagrams/DatabaseUML.png />
+<img src=ClassDiagrams/DatabaseUML.png />
 
 ## 10. Size and Performance
 
