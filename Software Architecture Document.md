@@ -69,7 +69,7 @@ N/A
 
 ## 5. Logical View
 
-<img src="mvc-Model.png" width="1000" />
+<img src="pictures/mvc-Model.png" width="1000" />
 
 ## 6. Process View
 
