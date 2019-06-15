@@ -23,7 +23,7 @@ n/a
 # 2. Flow of Events
 ## 2.1 Basic Flow
 
-![](UC Receive Rating Diagram.png)
+![](UCReceiveRatingDiagram.png)
 
 ## 2.2 Alternative Flows
 
