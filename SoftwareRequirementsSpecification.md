@@ -99,7 +99,7 @@ The menus get saved into the database. The use case specification can be found [
 These use cases are done in the fourth semester.
 
 #### 3.1.2.1 Submit Rating to Server
-Logged-in users can submit ratings to meals. The use case specification can be found [here]()
+Logged-in users can submit ratings to meals. The use case specification can be found [here](UseCases/Submit%20Rating%20to%20Server/UC%20Submit%20Rating%20to%20Server.md)
 
 #### 3.1.2.2 Sort Ratings
 A feature all users can use. Sorting ratings by the amount of stars a meal received. The use case specification can be found [here]()
