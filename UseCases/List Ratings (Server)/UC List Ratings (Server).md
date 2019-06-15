@@ -32,6 +32,8 @@ n/a
 
 # 3. Special Requirements
 
+n/a
+
 # 4. Preconditions
 
 - The database should contain at least one rating.

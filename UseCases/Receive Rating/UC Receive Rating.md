@@ -18,9 +18,11 @@ Receive a rating that was sent to the server by the application and add the rati
 
 ## 1.2 Screenshots
 
+n/a
 
 # 2. Flow of Events
 ## 2.1 Basic Flow
+
 ![](UC Receive Rating Diagram.png)
 
 ## 2.2 Alternative Flows

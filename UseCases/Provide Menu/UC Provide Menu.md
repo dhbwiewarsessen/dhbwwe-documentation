@@ -26,8 +26,12 @@ n/a
 ![Provide Menus Diagram](ProvideMenusDiagram.png)
 
 ## 2.2 Alternative Flows
+
+n/a
+
 # 3. Special Requirements
 
+n/a
 
 # 4. Preconditions
 
@@ -39,3 +43,5 @@ The request has to contain a parameter "date" in the format "yyyymmdd" via the P
 The Server should send a response with the correct menu for the given date.
 
 # 6. Function Points
+
+n/a

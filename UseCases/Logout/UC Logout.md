@@ -44,4 +44,4 @@ The previously logged in user has to be logged out.
 
 # 6. Function Points
 
-tbd
+n/a
