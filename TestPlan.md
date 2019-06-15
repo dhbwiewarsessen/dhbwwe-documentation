@@ -64,9 +64,9 @@ n/a
 Automated with use of Cucumber and Feature-Files
 |Technique Objective:| Target: ListRating, Manage Rating and Register                    |
 |---|---|
-| Technique:              | Cucumber and Feature-Files                                                   |
+| Technique:              | Cucumber and Feature-Files                                    |
 | Oracles:                | - Success   <br />- Errormessages                             |
-| Required Tools:         | Android-Studion                                          |
+| Required Tools:         | Android-Studion                                               |
 | Success Criteria:       | - Feature-Files run with success   <br />- Correct Errormessage gets   displayed |
 | Special Considerations: | A working Internetconnection                               |
 |                         |                                                              |
