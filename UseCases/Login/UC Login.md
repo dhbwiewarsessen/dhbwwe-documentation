@@ -38,7 +38,8 @@ n/a
 
 # 4. Preconditions
 
-n/a
+- The App has to be connected to the Server
+- The user has to be registered
 
 # 5. Postconditions
 
@@ -47,4 +48,4 @@ The Login Activity should close and the previous page should be shown.
 
 # 6. Function Points
 
-tbd
+n/a
