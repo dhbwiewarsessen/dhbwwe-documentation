@@ -50,24 +50,39 @@ n.a.
 The section Tested is Front- and BackEnd.
 
 #### 5.1.2	Unit Testing
-|Technique Objective:| Target: LogIn, Create and   Delete Rating                    |
+|Technique Objective:| Target: LogIn, Register and Delete Rating                    |
 |---|---|
 | Technique:              | Unit-Tests                                                   |
-| Oracles:                | -Success   <br />- Errormessages                             |
+| Oracles:                | - Success   <br />- Errormessages                             |
 | Required Tools:         | Unit-Test-Interface                                          |
 | Success Criteria:       | - Server returns success, after sending data   <br />- Correct Errormessage gets   displayed |
-| Special Considerations: | A working   Internetconnection                               |
+| Special Considerations: | A working Internetconnection                               |
 |                         |                                                              |
 #### 5.1.3	Business Cycle Testing
 n/a
 #### 5.1.4	User Interface Testing
 Automated with use of Cucumber and Feature-Files
+|Technique Objective:| Target: ListRating, Manage Rating and Register                    |
+|---|---|
+| Technique:              | Cucumber and Feature-Files                                                   |
+| Oracles:                | - Success   <br />- Errormessages                             |
+| Required Tools:         | Android-Studion                                          |
+| Success Criteria:       | - Feature-Files run with success   <br />- Correct Errormessage gets   displayed |
+| Special Considerations: | A working Internetconnection                               |
+|                         |                                                              |
 #### 5.1.5	Performance Profiling 
 n/a
 #### 5.1.6	Load Testing
 n/a
 #### 5.1.7	Stress Testing
-n/a
+|Technique Objective:| Target: Register and send Rating                    |
+|---|---|
+| Technique:              | give App in Class and let other students log In                                                   |
+| Oracles:                | - app runs normal   <br />- Servercrash                            |
+| Required Tools:         | n/a                                          |
+| Success Criteria:       | - runs smooth |
+| Special Considerations: | A working Internetconnection and other students                               |
+|                         |                                                              |
 #### 5.1.8	Volume Testing
 n/a
 #### 5.1.9	Security and Access Control Testing
@@ -77,7 +92,14 @@ n/a
 #### 5.1.11	Configuration Testing
 n/a
 #### 5.1.12	Installation Testing
-n/a
+|Technique Objective:| Target: Installation                    |
+|---|---|
+| Technique:              | give App to another group to install                                                   |
+| Oracles:                | - Installation successful                            |
+| Required Tools:         | n/a                                          |
+| Success Criteria:       | - installation successful |
+| Special Considerations: | APK and SQL-file for Database + php-scripts                               |
+|                         |   
 ## 6.	Entry and Exit Criteria
 ### 6.1	Test Plan
 #### 6.1.1	Test Plan Entry Criteria
