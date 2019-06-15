@@ -61,7 +61,6 @@ The section Tested is Front- and BackEnd.
 #### 5.1.3	Business Cycle Testing
 n/a
 #### 5.1.4	User Interface Testing
-Automated with use of Cucumber and Feature-Files
 |Technique Objective:| Target: ListRating, Manage Rating and Register                    |
 |---|---|
 | Technique:              | Cucumber and Feature-Files                                    |
