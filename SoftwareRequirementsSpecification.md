@@ -102,22 +102,19 @@ These use cases are done in the fourth semester.
 Logged-in users can submit ratings to meals. The use case specification can be found [here](UseCases/Submit%20Rating%20to%20Server/UC%20Submit%20Rating%20to%20Server.md)
 
 #### 3.1.2.2 Sort Ratings
-A feature all users can use. Sorting ratings by the amount of stars a meal received. The use case specification can be found [here]()
+A feature all users can use. Sorting ratings by the amount of stars a meal received. The use case specification can be found [here](UseCases/Sort%20rating%20(App)/UC%20Sort%20Rating.md).
 
-#### 3.1.2.3 Get Ratings from Server
-A feature that should run in the background of the app to always be able to show all available ratings to the user. The use case specification does not exist yet.
+#### 3.1.2.3 Receive Rating (Server)
+The server should be able to receive ratings from Clients and save them into the database ([Manage Ratings (Server)](#3125-manage-rating)). The use case specification can be found [here](UseCases/Receive%20Rating/UC%20Receive%20Rating.md).
 
-#### 3.1.2.4 Receive Rating (Server)
-The server should be able to receive ratings from Clients and save them into the database ([Manage Ratings (Server)](#3125-manage-rating)). The use case specification does not exist yet.
-
-#### 3.1.2.5 Provide Ratings of all users
-The server should send a list of (all/requested) ratings on a request by a client. The use case specification does not exist yet.
+#### 3.1.2.4 Provide Ratings of all users
+The server should send a list of (all/requested) ratings on a request by a client. The use case specification can be found [here](UseCases/Provide%20Ratings%20of%20all%20users/UC%20Provide%20Ratings%20of%20all%20users.md).
 
 #### 3.1.2.5 Manage Rating (Server)
-The server should store new ratings in the database and also update existing ratings, that have been changed by the user. The use case specification does not exist yet.
+The server should store new ratings in the database and also update existing ratings, that have been changed by the user. The use case specification can be found [here](UseCases/Manage%20Rating%20(Server)/UC%20Manage%20Rating%20(Server).md).
 
 #### 3.1.2.6 List Ratings (Server)
-The server has to send a request to the database to list (all/requested) ratings. The use case specification does not exist yet.
+The server has to send a request to the database to list (all/requested) ratings. The use case specification can be found [here](UseCases/List%20Ratings%20(Server)/UC%20List%20Ratings%20(Server).md).
 
 
 ## 3.2 Usability
