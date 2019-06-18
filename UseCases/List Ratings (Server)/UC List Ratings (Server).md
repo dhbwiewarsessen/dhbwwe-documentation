@@ -1,4 +1,4 @@
-# Use-Case Specification: 
+# Use-Case Specification: List rating (Server)
 
 # Table of Contents
 - [Analyze Acceleration Behavior](#1-analyze-acceleration-behavior)

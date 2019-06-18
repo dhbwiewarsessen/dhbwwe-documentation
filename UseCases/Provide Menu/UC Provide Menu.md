@@ -1,4 +1,4 @@
-# Use-Case Specification: 
+# Use-Case Specification: Provide menu
 
 # Table of Contents
 - [Analyze Acceleration Behavior](#1-analyze-acceleration-behavior)
